@@ -1,7 +1,7 @@
 ---
 title: "Assignment_2_Data_Mining_IDS_572"
-author: "Zohaib Sheikh"
-date: "10/23/2021"
+author: "Kushal Adity"
+date: "02/23/2023"
 output: html_document
 
 library(tidyverse)
